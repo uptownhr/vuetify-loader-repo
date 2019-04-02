@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "nuxt": "^2.5.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vuetify": "^1.5.9",
+    "vuetify-loader": "^1.2.1"
+  },
+  "scripts": {
+    "dev": "yarn && NODE_ENV=dev nuxt"
+  }
+}
